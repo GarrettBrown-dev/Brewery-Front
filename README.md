@@ -14,6 +14,11 @@ A basic webpage created with React. Allows user to add a keg of beer with a name
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Be sure to paste these in your terminal in order to install the proper dependencies!
+
+(If you're creating a new project: npx create-react-app (project name here, no parens.)
+npm install --save-exact react-scripts@3.2.0
+
 ## Available Scripts
 
 In the project directory, you can run:
