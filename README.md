@@ -16,8 +16,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Be sure to paste these in your terminal in order to install the proper dependencies!
 
-(If you're creating a new project: npx create-react-app (project name here, no parens.)
-npm install --save-exact react-scripts@3.2.0
+-(If you're creating a new project: npx create-react-app (project name here, no parens.)
+
+-npm install --save-exact react-scripts@3.2.0
 
 ## Available Scripts
 
